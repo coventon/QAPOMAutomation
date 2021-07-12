@@ -1,0 +1,12 @@
+com\roma\qa\pages\LoginPage.class
+com\roma\qa\pages\TaskPage.class
+com\roma\qa\pages\CreateNewContactPage.class
+com\roma\qa\base\TestBase.class
+com\roma\qa\pages\SignUpPage.class
+com\roma\qa\pages\DealsPage.class
+com\roma\qa\pages\ContactsPage.class
+com\roma\qa\utils\WebEventListener.class
+com\roma\qa\ExtentReportListener\ExtentReporterNG.class
+com\roma\qa\utils\TestUtil.class
+com\roma\qa\pages\ContactPage.class
+com\roma\qa\pages\HomePage.class

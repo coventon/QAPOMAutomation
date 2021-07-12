@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [POMHibridSeleniumProjectFramewordClone]" guice-stage="DEVELOPMENT" verbose="2">
+  <test thread-count="5" name="CRM App Contacts Page Test(failed)" verbose="2">
+    <classes>
+      <class name="com.roma.qa.tastcases.ContactsPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="selectMultipleContacts"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.roma.qa.tastcases.ContactsPageTest -->
+    </classes>
+  </test> <!-- CRM App Contacts Page Test(failed) -->
+</suite> <!-- Failed suite [POMHibridSeleniumProjectFramewordClone] -->

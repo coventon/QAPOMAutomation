@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    
+    <listeners>
+        <listener class-name="com.roma.qa.ExtentReportListener.ExtentReporterNG"/>
+    </listeners>
+    
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/user/Documents/Projects/POMHibridSeleniumProjectFramewordClone">
+        <classes>
+            
+            <class name="com.roma.qa.tastcases.HomePageTest">
+                <methods>
+                    <include name="verifyHomePageTitleTest"/>
+                    <include name="verifyUseNameTest"/>
+                    <include name="verifyContactsLink"/>
+                </methods>
+            </class>
+            <class name="com.roma.qa.tastcases.LoginPageTest">
+                <methods>
+                    <include name="crmLogoImageTest"/>
+                    <include name="loginBtnMain"/>
+                    <include name="loginPageTitleTest"/>
+                    <include name="fogotPasswordIsDisplayed"/>
+                    <include name="loginTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

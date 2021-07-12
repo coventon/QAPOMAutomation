@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="POMHibridSeleniumProjectFramewordClone" preserve-order="true" parallel="none" verbose="2" >
+
+    <test name="CRM App Login Test">
+        <classes>
+            <class name="com.roma.qa.tastcases.LoginPageTest"></class>
+        </classes>
+    </test>
+    <test name="CRM App Home Page Test">
+        <classes>
+            <class name="com.roma.qa.tastcases.HomePageTest"></class>
+        </classes>
+    </test>
+    <test name="CRM App Contacts Page Test">
+        <classes>
+            <class name="com.roma.qa.tastcases.ContactsPageTest"></class>
+        </classes>
+    </test>
+<!--    <test name="CRM App Test">-->
+<!--        <classes>-->
+<!--            <class name="com.roma.qa.tastcases.CreateNewContactPageTest"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>

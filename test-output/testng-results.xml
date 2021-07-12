@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-11T22:35:23Z" name="Default Suite" finished-at="2021-07-11T22:35:53Z" duration-ms="30248">
+    <groups>
+    </groups>
+    <test started-at="2021-07-11T22:35:23Z" name="POMHibridSeleniumProjectFramewordClone" finished-at="2021-07-11T22:35:53Z" duration-ms="30248">
+      <class name="com.roma.qa.tastcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:23Z" name="setUp" finished-at="2021-07-11T22:35:28Z" duration-ms="4817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="crmLogoImageTest()[pri:1, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:28Z" name="crmLogoImageTest" finished-at="2021-07-11T22:35:28Z" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmLogoImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:28Z" name="tearDown" finished-at="2021-07-11T22:35:28Z" duration-ms="790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:28Z" name="setUp" finished-at="2021-07-11T22:35:33Z" duration-ms="4179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginBtnMain()[pri:2, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:33Z" name="loginBtnMain" finished-at="2021-07-11T22:35:34Z" duration-ms="1723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBtnMain -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:34Z" name="tearDown" finished-at="2021-07-11T22:35:35Z" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:35Z" name="setUp" finished-at="2021-07-11T22:35:38Z" duration-ms="3742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:3, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:38Z" name="loginPageTitleTest" finished-at="2021-07-11T22:35:40Z" duration-ms="1700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:40Z" name="tearDown" finished-at="2021-07-11T22:35:40Z" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:40Z" name="setUp" finished-at="2021-07-11T22:35:43Z" duration-ms="3090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fogotPasswordIsDisplayed()[pri:4, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:43Z" name="fogotPasswordIsDisplayed" finished-at="2021-07-11T22:35:46Z" duration-ms="2973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fogotPasswordIsDisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:46Z" name="tearDown" finished-at="2021-07-11T22:35:46Z" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:46Z" name="setUp" finished-at="2021-07-11T22:35:50Z" duration-ms="3127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:5, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:50Z" name="loginTest" finished-at="2021-07-11T22:35:53Z" duration-ms="3283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.roma.qa.tastcases.LoginPageTest@6fb0d3ed]" started-at="2021-07-11T22:35:53Z" name="tearDown" finished-at="2021-07-11T22:35:53Z" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.roma.qa.tastcases.LoginPageTest -->
+    </test> <!-- POMHibridSeleniumProjectFramewordClone -->
+  </suite> <!-- Default Suite -->
+</testng-results>

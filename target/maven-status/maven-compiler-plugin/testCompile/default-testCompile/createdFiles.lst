@@ -1,0 +1,5 @@
+com\roma\qa\tastcases\SingleContactTestPage.class
+com\roma\qa\tastcases\LoginPageTest.class
+com\roma\qa\tastcases\ContactsPageTest.class
+com\roma\qa\tastcases\CreateNewContactTest.class
+com\roma\qa\tastcases\HomePageTest.class
